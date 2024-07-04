@@ -26,7 +26,7 @@ public class Calci {
     if (bmi < 18.5) {
       System.out.println("You are Under weight!");
     } else if (bmi >= 18.5 && bmi < 25) {
-      System.out.println("You are Healthy Weight!");
+      System.out.println("You are Healthy!");
     } else if (bmi >= 25 && bmi < 30) {
       System.out.println("You are Over weight!");
     } else if (bmi >= 30) {
